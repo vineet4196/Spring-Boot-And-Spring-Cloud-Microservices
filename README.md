@@ -24,3 +24,7 @@ This project demonstrates how to build a complete microservices architecture usi
 - Use Spring Cloud tools to manage configurations and discovery
 - Apply distributed tracing in microservices
 - Integrate a React frontend with backend microservices
+
+# Architecture Diagram
+
+<img width="1150" height="579" alt="image" src="https://github.com/user-attachments/assets/f6af7f09-1100-49a2-b9ee-dce82ee8335e" />
