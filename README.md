@@ -4,7 +4,7 @@
 This project demonstrates how to build a complete microservices architecture using **Spring Boot** and **Spring Cloud**. It covers essential tools and patterns for building scalable, maintainable, and production-ready microservices.
 
 ## Features
-- **Microservices with Separate Databases**: Employee, Department, Organization services — each backed by MySQL.
+- **Microservices with Separate Databases**: Employee, Department, Organization services — each backed by Postgres SQL.
 - **Centralized Configuration**: Spring Cloud Config Server storing configs in a Git repository.
 - **Service Discovery**: Eureka Server for dynamic registration and discovery.
 - **Distributed Tracing**: Spring Cloud Sleuth for correlation IDs, Zipkin UI for visualization.
