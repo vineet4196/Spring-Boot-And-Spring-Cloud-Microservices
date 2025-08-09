@@ -13,7 +13,7 @@ This project demonstrates how to build a complete microservices architecture usi
 
 ## Tech Stack
 - Java, Spring Boot, Spring Cloud
-- MySQL, Hibernate, Spring Data JPA
+- PostGres, Hibernate, Spring Data JPA
 - Eureka, Config Server, API Gateway
 - Sleuth, Zipkin
 - React
