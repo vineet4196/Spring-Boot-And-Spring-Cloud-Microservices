@@ -6,7 +6,7 @@ This guide explains how to use Spring annotations for HTTP methods in REST APIs,
 
 - **@Controller**: Marks a class as a Spring MVC controller.
 - **@RestController**: Combines @Controller + @ResponseBody; all methods return HTTP responses directly (usually as JSON).
-- **@RequestMapping**: Maps requests to controllers/classes or methods for any HTTP method.
+- **@RequestMapping**: Maps requests to controllers/classes or methods for any HTTP method. Helps define base url at class level.
 - **@GetMapping**, **@PostMapping**, **@PutMapping**, **@PatchMapping**, **@DeleteMapping**: Specialized mappings for specific HTTP methods.
 - **@PathVariable**: Binds a variable from the URL path.
 - **@RequestParam**: Binds a variable from the query string.
